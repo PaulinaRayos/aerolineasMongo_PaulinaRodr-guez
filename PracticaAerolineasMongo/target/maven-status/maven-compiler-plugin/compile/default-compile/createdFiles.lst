@@ -1,0 +1,7 @@
+datos\DAOAerolineas.class
+datos\ConexionBD.class
+objetos\Aerolinea.class
+datos\Aerolineas.class
+interfaces\IConexionBD.class
+com\mycompany\practicaaerolineasmongo\PracticaAerolineasMongo.class
+interfaces\IAerolineasDAO.class
